@@ -1,6 +1,6 @@
 # YOLOv5 with PyTorch c++
 
-A c++ implementation of [Ultralytics LLC's YOLOv5](https://github.com/ultralytics/yolov5) with [PyTorch c++ API](https://pytorch.org/cppdocs/) (LibTorch).
+A c++ implementation of [Ultralytics LLC's YOLOv5](https://github.com/ultralytics/yolov5) with [PyTorch c++ API](https://pytorch.org/cppdocs/) (LibTorch) inspired by [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5).
 
 ![alt](./result_image/result_image_YOLOv5/result_zidane.jpg)
 
@@ -122,4 +122,5 @@ If the program keeps loading the model more than a minute, it is recommended to 
 # References
 
 * [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+* [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5)
 * [TadaoYamaoka/cxxopts/include/cxxopts.hpp](https://github.com/TadaoYamaoka/cxxopts/blob/master/include/cxxopts.hpp)
